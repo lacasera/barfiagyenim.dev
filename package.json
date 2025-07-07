@@ -14,9 +14,9 @@
   ],
   "main": "index.js",
   "scripts": {
-    "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
-    "serve": "vitepress serve docs",
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "serve": "vitepress serve",
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
     "release": "npm run lint && npm run build && changelogen --patch --release  && git push --follow-tags"

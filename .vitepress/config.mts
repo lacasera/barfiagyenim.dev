@@ -2,7 +2,7 @@ import Unocss from 'unocss/vite'
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/docs',
+  base: '/',
   description: 'Blog included. Built on top of VitePress and UnoCSS.',
   markdown: {
     headers: {
