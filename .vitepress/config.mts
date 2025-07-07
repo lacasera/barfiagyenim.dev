@@ -55,34 +55,3 @@ function nav() {
     },
   ]
 }
-
-function sidebarGuide() {
-  return [
-    {
-      text: 'Introduction',
-      collapsible: true,
-      items: [
-        { text: 'What is this?', link: '/guide/' },
-      ],
-    },
-    {
-      text: 'Features',
-      collapsible: true,
-      items: [
-        { text: 'UnoCSS', link: '/guide/features/unocss' },
-      ],
-    },
-  ]
-}
-
-function sidebarConfig() {
-  return [
-    {
-      text: 'Config',
-      items: [
-        { text: 'Introduction', link: '/config/' },
-        { text: 'UnoCSS', link: '/config/unocss' },
-      ],
-    },
-  ]
-}
