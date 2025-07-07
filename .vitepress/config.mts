@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   base: '/',
-  description: 'Blog included. Built on top of VitePress and UnoCSS.',
+  description: 'Barfi Boateng Agyenim | My Portfolio',
   markdown: {
     headers: {
       level: [0, 0],
@@ -32,7 +32,7 @@ export default defineConfig({
     nav: nav(),
     blog: {
       title: 'My Blog',
-      description: 'Some articles for sample Blog',
+      description: '',
     },
   },
   title: 'Barfi Boateng Agyenim',
