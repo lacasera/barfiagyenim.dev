@@ -19,10 +19,13 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/lacasera' },
-      { icon: 'linkedin', link: 'https://github.com/lacasera' },
+      {
+        icon: 'linkedin',
+        link: 'https://www.linkedin.com/in/agyenim-boateng-barfi-88985577/',
+      },
       {
         icon: 'twitter',
-        link: 'https://www.linkedin.com/in/agyenim-boateng-barfi-88985577/',
+        link: 'https://x.com/barfiagyenim',
       },
       { icon: 'twitch', link: 'https://www.twitch.tv/php_artisans' },
     ],
