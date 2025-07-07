@@ -47,7 +47,7 @@ export default defineConfig({
 
 function nav() {
   return [
-    { text: 'Blog', link: '/blog/', activeMatch: '/blog/' },
+    // { text: 'Blog', link: '/blog/', activeMatch: '/blog/' },
     {
       text: 'Resume',
       link: '/resume.pdf',

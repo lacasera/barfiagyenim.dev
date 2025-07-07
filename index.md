@@ -5,10 +5,10 @@ hero:
   name: Hi, I'm Agyenim!
   text: Full stack Developer • Search & Relevance Enthusiast • Laravel Expect
   tagline: I build scalable APIs and love turning complex data into intuitive search experiences.
-  actions:
-    - theme: brand
-      text: Read My Posts
-      link: /blog
+  # actions:
+  #   - theme: brand
+  #     text: Read My Posts
+  #     link: /blog
 features:
   - title: Laravel & PHP
     details: 8+ years building robust APIs and scalable backend systems.
