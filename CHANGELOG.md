@@ -1,3 +1,134 @@
+## v1.0.4
+
+
+### 🚀 Enhancements
+
+- **PostDetail:** Add Author ([1b602fd](https://github.com/lacasera/barfiagyenim.dev/commit/1b602fd))
+- **search:** Add Local Search ([898be43](https://github.com/lacasera/barfiagyenim.dev/commit/898be43))
+- **search:** Add Local Search ([d1dafdd](https://github.com/lacasera/barfiagyenim.dev/commit/d1dafdd))
+- **search:** Add Local Search ([6f115a8](https://github.com/lacasera/barfiagyenim.dev/commit/6f115a8))
+- **changelog:** Add Github Action ([58312fb](https://github.com/lacasera/barfiagyenim.dev/commit/58312fb))
+- **changelog:** Add Github Action ([0206676](https://github.com/lacasera/barfiagyenim.dev/commit/0206676))
+- **changelog:** Add Github Action ([d04ed2f](https://github.com/lacasera/barfiagyenim.dev/commit/d04ed2f))
+
+### 🩹 Fixes
+
+- **Build:** ./authors.data should not use UpperCase first letter ([a889290](https://github.com/lacasera/barfiagyenim.dev/commit/a889290))
+- **Post:** Change read more href ([a584072](https://github.com/lacasera/barfiagyenim.dev/commit/a584072))
+
+### 💅 Refactors
+
+- **configuration:** Move into docs folder ([3a38b90](https://github.com/lacasera/barfiagyenim.dev/commit/3a38b90))
+- **config:** Add base Path ([2bec57d](https://github.com/lacasera/barfiagyenim.dev/commit/2bec57d))
+- **config:** Remove base Path ([f2ffa2b](https://github.com/lacasera/barfiagyenim.dev/commit/f2ffa2b))
+- **config:** Remove base Path ([1f7ea41](https://github.com/lacasera/barfiagyenim.dev/commit/1f7ea41))
+- **path:** Use site path ([1ade4cb](https://github.com/lacasera/barfiagyenim.dev/commit/1ade4cb))
+- **Anu:** Remove Anu ([02154d2](https://github.com/lacasera/barfiagyenim.dev/commit/02154d2))
+
+### 📖 Documentation
+
+- **content:** Replace all dummy links with http:// ([78edd7a](https://github.com/lacasera/barfiagyenim.dev/commit/78edd7a))
+- **search:** Update Vitepress use local search ([a0646d7](https://github.com/lacasera/barfiagyenim.dev/commit/a0646d7))
+- **search:** Update Vitepress use local search ([36ab677](https://github.com/lacasera/barfiagyenim.dev/commit/36ab677))
+- **search:** Update Vitepress use local search ([ab2d1e0](https://github.com/lacasera/barfiagyenim.dev/commit/ab2d1e0))
+- **search:** Update Vitepress use local search ([1101b4c](https://github.com/lacasera/barfiagyenim.dev/commit/1101b4c))
+- **search:** Update Vitepress use local search ([ac5bb77](https://github.com/lacasera/barfiagyenim.dev/commit/ac5bb77))
+- Update CHANGELOG.md for v0.8.4 [skip ci] ([42b7965](https://github.com/lacasera/barfiagyenim.dev/commit/42b7965))
+- Update CHANGELOG.md for v0.8.5 [skip ci] ([383f232](https://github.com/lacasera/barfiagyenim.dev/commit/383f232))
+- Update CHANGELOG.md for v0.9.0 [skip ci] ([3887e57](https://github.com/lacasera/barfiagyenim.dev/commit/3887e57))
+- Update CHANGELOG.md for v0.9.1 [skip ci] ([c208d36](https://github.com/lacasera/barfiagyenim.dev/commit/c208d36))
+- Update CHANGELOG.md for v0.9.2 [skip ci] ([573a072](https://github.com/lacasera/barfiagyenim.dev/commit/573a072))
+- Update CHANGELOG.md for v0.10.0 [skip ci] ([a05790a](https://github.com/lacasera/barfiagyenim.dev/commit/a05790a))
+- Update CHANGELOG.md for v1.0.2 [skip ci] ([531b4b6](https://github.com/lacasera/barfiagyenim.dev/commit/531b4b6))
+- Update CHANGELOG.md for v1.0.3 [skip ci] ([f3485b6](https://github.com/lacasera/barfiagyenim.dev/commit/f3485b6))
+
+### 📦 Build
+
+- **Github:** Deploy on Github Pages ([d594b97](https://github.com/lacasera/barfiagyenim.dev/commit/d594b97))
+- **Github:** Deploy on Github Pages ([b7895a2](https://github.com/lacasera/barfiagyenim.dev/commit/b7895a2))
+- **Release:** Add release.yaml ([02487ac](https://github.com/lacasera/barfiagyenim.dev/commit/02487ac))
+- **Release:** New Version ([11b7fb6](https://github.com/lacasera/barfiagyenim.dev/commit/11b7fb6))
+- **Release:** New Version ([1bd9f4c](https://github.com/lacasera/barfiagyenim.dev/commit/1bd9f4c))
+- **Release:** New Version: 0.5.0 ([d301ebe](https://github.com/lacasera/barfiagyenim.dev/commit/d301ebe))
+- **Release:** New Version: 0.6.0 ([854c56d](https://github.com/lacasera/barfiagyenim.dev/commit/854c56d))
+- **Release:** New Version: 0.6.1 ([2c10211](https://github.com/lacasera/barfiagyenim.dev/commit/2c10211))
+- **Release:** New Version: 0.6.1 ([045a6d3](https://github.com/lacasera/barfiagyenim.dev/commit/045a6d3))
+- **Release:** New Version: 0.6.2 ([acc58a8](https://github.com/lacasera/barfiagyenim.dev/commit/acc58a8))
+- **Release:** New Version: 0.6.2 ([d5af013](https://github.com/lacasera/barfiagyenim.dev/commit/d5af013))
+- **Release:** Set base ([38ff6d4](https://github.com/lacasera/barfiagyenim.dev/commit/38ff6d4))
+- **Release:** Set base ([1e87a9b](https://github.com/lacasera/barfiagyenim.dev/commit/1e87a9b))
+- **Release:** New Version: 0.6.2 ([844c419](https://github.com/lacasera/barfiagyenim.dev/commit/844c419))
+- **Release:** New Version: 0.6.3 ([daa4c08](https://github.com/lacasera/barfiagyenim.dev/commit/daa4c08))
+- **Release:** New Version: 0.6.3 ([93763ba](https://github.com/lacasera/barfiagyenim.dev/commit/93763ba))
+- **Release:** New Version: 0.6.3 ([fe4a24b](https://github.com/lacasera/barfiagyenim.dev/commit/fe4a24b))
+- **Release:** New Version: 0.6.5 ([077f678](https://github.com/lacasera/barfiagyenim.dev/commit/077f678))
+- **Release:** New SNAPSHOT Version ([5120e02](https://github.com/lacasera/barfiagyenim.dev/commit/5120e02))
+- **changelog:** Add in Action ([d39a437](https://github.com/lacasera/barfiagyenim.dev/commit/d39a437))
+- **changelog:** Add in Action ([547a341](https://github.com/lacasera/barfiagyenim.dev/commit/547a341))
+- **changelog:** Update ([1991c87](https://github.com/lacasera/barfiagyenim.dev/commit/1991c87))
+- **changelog:** Add in Action ([64a6924](https://github.com/lacasera/barfiagyenim.dev/commit/64a6924))
+- **changelog:** Update ([6f89597](https://github.com/lacasera/barfiagyenim.dev/commit/6f89597))
+
+### 🏡 Chore
+
+- **Initial:** First commit ([f1b500b](https://github.com/lacasera/barfiagyenim.dev/commit/f1b500b))
+- **License:** Set MIT ([0195450](https://github.com/lacasera/barfiagyenim.dev/commit/0195450))
+- **netlify:** Set Config ([7662065](https://github.com/lacasera/barfiagyenim.dev/commit/7662065))
+- **changelog:** Set Config ([1b7b6ee](https://github.com/lacasera/barfiagyenim.dev/commit/1b7b6ee))
+- **changelog:** Set Config ([6fc2ead](https://github.com/lacasera/barfiagyenim.dev/commit/6fc2ead))
+- **Dependencies:** Update Vitepress ([736154a](https://github.com/lacasera/barfiagyenim.dev/commit/736154a))
+- **Dependencies:** Update Vitepress ([014f4a4](https://github.com/lacasera/barfiagyenim.dev/commit/014f4a4))
+- **Dependencies:** Update Anu 0.11.0 ([0a0501e](https://github.com/lacasera/barfiagyenim.dev/commit/0a0501e))
+- **Dependencies:** Update Anu 0.11.0 ([0077650](https://github.com/lacasera/barfiagyenim.dev/commit/0077650))
+- **Dependencies:** Update VitePress ([41ae9b4](https://github.com/lacasera/barfiagyenim.dev/commit/41ae9b4))
+- **Dependencies:** Update VitePress ([8051df0](https://github.com/lacasera/barfiagyenim.dev/commit/8051df0))
+- **Dependencies:** Update VitePress ([0044776](https://github.com/lacasera/barfiagyenim.dev/commit/0044776))
+- **Dependencies:** Update VitePress ([29599a6](https://github.com/lacasera/barfiagyenim.dev/commit/29599a6))
+- **version:** 0.7.3 ([05bb819](https://github.com/lacasera/barfiagyenim.dev/commit/05bb819))
+- **Dependencies:** Update Vitepress to lates alpha version ([66a9cd9](https://github.com/lacasera/barfiagyenim.dev/commit/66a9cd9))
+- **Dependencies:** Update Vitepress to lates alpha version ([0a4b04a](https://github.com/lacasera/barfiagyenim.dev/commit/0a4b04a))
+- **Dependencies:** Update Vitepress ([33f04cb](https://github.com/lacasera/barfiagyenim.dev/commit/33f04cb))
+- **Dependencies:** Update Vitepress ([de1263f](https://github.com/lacasera/barfiagyenim.dev/commit/de1263f))
+- **theme:** Support for using anu default themes ([fde4b81](https://github.com/lacasera/barfiagyenim.dev/commit/fde4b81))
+- **.gitignore:** Add vitepress ignore ([bef8dc9](https://github.com/lacasera/barfiagyenim.dev/commit/bef8dc9))
+- **Dependencies:** Update Vitepress ([4cb8b0a](https://github.com/lacasera/barfiagyenim.dev/commit/4cb8b0a))
+- **Dependencies:** Update Vitepress ([28ba712](https://github.com/lacasera/barfiagyenim.dev/commit/28ba712))
+- **search:** Add search options ([bc6f4a2](https://github.com/lacasera/barfiagyenim.dev/commit/bc6f4a2))
+- **Dependencies:** Update Vitepress to latest version ([4ff7ba4](https://github.com/lacasera/barfiagyenim.dev/commit/4ff7ba4))
+- **Dependencies:** Update Vitepress to lates beta version ([34d6e55](https://github.com/lacasera/barfiagyenim.dev/commit/34d6e55))
+- **Dependencies:** Update Vitepress to lates beta version ([9e23fec](https://github.com/lacasera/barfiagyenim.dev/commit/9e23fec))
+- **Dependencies:** Update Vitepress to lates beta version ([9507ef9](https://github.com/lacasera/barfiagyenim.dev/commit/9507ef9))
+- **Dependencies:** Update Vitepress to latest beta version (6) ([a6e079a](https://github.com/lacasera/barfiagyenim.dev/commit/a6e079a))
+- **Dependencies:** Update Vitepress to 1.0.0-rc.10 ([f089ced](https://github.com/lacasera/barfiagyenim.dev/commit/f089ced))
+- **Dependencies:** Update Vitepress to 1.0.0-rc.10 ([42c200d](https://github.com/lacasera/barfiagyenim.dev/commit/42c200d))
+- **Dependencies:** Update Vitepress to 1.0.0-rc.10 ([99e0f26](https://github.com/lacasera/barfiagyenim.dev/commit/99e0f26))
+- **Dependencies:** Update Vitepress to 1.0.0-rc.10 ([46b6100](https://github.com/lacasera/barfiagyenim.dev/commit/46b6100))
+- **Dependencies:** Update Vitepress to 1.0.0-rc.10 ([d09d262](https://github.com/lacasera/barfiagyenim.dev/commit/d09d262))
+- **Dependencies:** Update Vitepress to 1.0.0-rc.10 ([f87ad1d](https://github.com/lacasera/barfiagyenim.dev/commit/f87ad1d))
+- **Dependencies:** New Version ([b8eb74c](https://github.com/lacasera/barfiagyenim.dev/commit/b8eb74c))
+- **Dependencies:** New Version ([38c35e6](https://github.com/lacasera/barfiagyenim.dev/commit/38c35e6))
+- **Dependencies:** New Version ([9e5b233](https://github.com/lacasera/barfiagyenim.dev/commit/9e5b233))
+- **Dependencies:** New VitePress Version ([5111e18](https://github.com/lacasera/barfiagyenim.dev/commit/5111e18))
+- **Dependencies:** New VitePress Version ([1970ce2](https://github.com/lacasera/barfiagyenim.dev/commit/1970ce2))
+- **Dependencies:** New VitePress Version RC 44 ([98a0bb7](https://github.com/lacasera/barfiagyenim.dev/commit/98a0bb7))
+- **Dependencies:** New VitePress Version 1.0.2 ([16e7bbc](https://github.com/lacasera/barfiagyenim.dev/commit/16e7bbc))
+- **Dependencies:** New VitePress Version 1.5.0 ([37fe974](https://github.com/lacasera/barfiagyenim.dev/commit/37fe974))
+- **linting:** Fix all Lint Errors ([9e1a1ef](https://github.com/lacasera/barfiagyenim.dev/commit/9e1a1ef))
+- **Release:** New Version ([bb81c5d](https://github.com/lacasera/barfiagyenim.dev/commit/bb81c5d))
+- **release:** V0.10.0 ([304d029](https://github.com/lacasera/barfiagyenim.dev/commit/304d029))
+- **Release:** New Version ([a9c37cd](https://github.com/lacasera/barfiagyenim.dev/commit/a9c37cd))
+- **release:** V1.0.1 ([97138a6](https://github.com/lacasera/barfiagyenim.dev/commit/97138a6))
+- **Dependencies:** New VitePress Version 1.6.1 ([6159aff](https://github.com/lacasera/barfiagyenim.dev/commit/6159aff))
+- **Dependencies:** New VitePress Version 1.6.1 ([fe56b1c](https://github.com/lacasera/barfiagyenim.dev/commit/fe56b1c))
+- **release:** V1.0.2 ([f14e181](https://github.com/lacasera/barfiagyenim.dev/commit/f14e181))
+- **Dependencies:** New VitePress Version 1.6.3 ([625331f](https://github.com/lacasera/barfiagyenim.dev/commit/625331f))
+- **release:** V1.0.3 ([0f1f201](https://github.com/lacasera/barfiagyenim.dev/commit/0f1f201))
+
+### ❤️ Contributors
+
+- Sfxcode ([@sfxcode](http://github.com/sfxcode))
+- 张雨涵 ([@zhangyuhan2016](http://github.com/zhangyuhan2016))
+
 ## [v1.0.3] - 2025-02-08
 ### :wrench: Chores
 - [`625331f`](https://github.com/sfxcode/vitepress-blog-starter/commit/625331f5d930c35a3c4192ef8bd5ed6f43904c01) - **Dependencies**: New VitePress Version 1.6.3 *(commit by [@sfxcode](https://github.com/sfxcode))*
