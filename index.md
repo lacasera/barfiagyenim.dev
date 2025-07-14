@@ -3,7 +3,7 @@ layout: home
 title: Welcome to My Blog
 hero:
   name: Hi, I'm Agyenim!
-  text: Full stack Developer • Search & Relevance Enthusiast • Laravel Expect
+  text: Full stack Developer • Search & Relevance Enthusiast • Laravel Expert
   tagline: I build scalable APIs and love turning complex data into intuitive search experiences.
   # actions:
   #   - theme: brand
